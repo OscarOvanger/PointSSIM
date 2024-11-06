@@ -1,0 +1,4 @@
+ - Reduced_functions.py : functions used in the notebooks.
+ - Final_notebook_no_more_tomfoolery.ipynb : Notebook to recreate figures in Manuscript
+ - Final_notebook_no_more_tomfoolery.ipynb : Notebook to recreate figures in other half of Manuscript
+ - *.npy.gz : data used in notebooks
